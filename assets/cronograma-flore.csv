@@ -1,0 +1,13 @@
+Fase,Nome da Fase,Período,Início,Fim,Atividade,Status
+01,Concepção & Core Mobile,Fev – Abr 2026,Fev 2026,Abr 2026,Pesquisa de mercado e benchmarking,Encerrado
+01,Concepção & Core Mobile,Fev – Abr 2026,Fev 2026,Abr 2026,Prototipagem UX/UI no Figma,Encerrado
+01,Concepção & Core Mobile,Fev – Abr 2026,Fev 2026,Abr 2026,Setup Flutter + GitHub,Encerrado
+01,Concepção & Core Mobile,Fev – Abr 2026,Fev 2026,Abr 2026,Telas de Auth,Encerrado
+02,Req. Leroy Merlin + AI Logistics,Mai – Jun 2026,Mai 2026,Jun 2026,Análise da mentoria Leroy Merlin,Em andamento
+02,Req. Leroy Merlin + AI Logistics,Mai – Jun 2026,Mai 2026,Jun 2026,Modelagem conceitual de IA,Em andamento
+02,Req. Leroy Merlin + AI Logistics,Mai – Jun 2026,Mai 2026,Jun 2026,Cronograma,Em andamento
+03,Marketplace P2P & Back-end,Jun – Jul 2026,Jun 2026,Jul 2026,Módulo de gestão de acervo,Pendente
+03,Marketplace P2P & Back-end,Jun – Jul 2026,Jun 2026,Jul 2026,Fluxos de compra venda e troca,Pendente
+04,AI Logistics Extension,Ago – Nov 2026,Ago 2026,Nov 2026,Watson Assistant p/ rastreamento,Pendente
+04,AI Logistics Extension,Ago – Nov 2026,Ago 2026,Nov 2026,Motor ETA preditivo em Python,Pendente
+04,AI Logistics Extension,Ago – Nov 2026,Ago 2026,Nov 2026,IA Generativa + LGPD + MVP,Pendente
