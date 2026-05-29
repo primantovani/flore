@@ -505,41 +505,6 @@ body {
 
 .btn--notion:hover { background: var(--cream); transform: translateY(-2px); }
 
-/* DOC LINK */
-.doc-link {
-  margin-top: 1rem;
-  text-align: right;
-}
-
-.doc-link__anchor {
-  display: inline-flex;
-  align-items: center;
-  gap: 0.6rem;
-  text-decoration: none;
-  color: rgba(255,255,255,0.75);
-  font-size: 0.875rem;
-  transition: color 0.2s;
-}
-
-.doc-link__anchor:hover { color: var(--white); }
-
-.doc-link__label {
-  background: var(--orange);
-  color: var(--white);
-  font-size: 0.68rem;
-  font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 0.5px;
-  padding: 0.2rem 0.6rem;
-  border-radius: 50px;
-}
-
-.doc-link__arrow {
-  font-size: 1rem;
-  transition: transform 0.2s;
-}
-
-.doc-link__anchor:hover .doc-link__arrow { transform: translateX(3px); }
 
 /* ===== VIDEOS ===== */
 .videos-grid {
