@@ -667,8 +667,11 @@ body {
   font-size: 1.5rem;
   font-weight: 700;
   color: var(--white);
-  background: var(--teal);
 }
+
+.team-card:nth-child(1) .team-card__photo-wrap { background: var(--teal); }
+.team-card:nth-child(2) .team-card__photo-wrap { background: var(--teal-light); }
+.team-card:nth-child(3) .team-card__photo-wrap { background: var(--orange); }
 
 .team-card__info { flex: 1; }
 
