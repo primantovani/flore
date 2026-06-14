@@ -779,3 +779,36 @@ body {
 
   .videos-grid { grid-template-columns: 1fr; }
 }
+.video-wrap--placeholder {
+  background: var(--cream);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.video-placeholder {
+  position: absolute;
+  top: 0; left: 0;
+  width: 100%; height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  background: #f0ede8;
+  color: var(--gray);
+}
+
+.video-placeholder__icon {
+  font-size: 2rem;
+  color: var(--teal);
+  opacity: 0.4;
+}
+
+.video-placeholder p {
+  font-size: 0.85rem;
+  font-weight: 500;
+  color: var(--gray);
+  margin: 0;
+}
+
